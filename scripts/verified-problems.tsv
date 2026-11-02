@@ -1,0 +1,197 @@
+platform	id	title	difficulty	url
+LeetCode	509	Fibonacci Number	Easy	https://leetcode.com/problems/fibonacci-number/
+LeetCode	70	Climbing Stairs	Easy	https://leetcode.com/problems/climbing-stairs/
+LeetCode	746	Min Cost Climbing Stairs	Easy	https://leetcode.com/problems/min-cost-climbing-stairs/
+LeetCode	198	House Robber	Medium	https://leetcode.com/problems/house-robber/
+LeetCode	213	House Robber II	Medium	https://leetcode.com/problems/house-robber-ii/
+LeetCode	91	Decode Ways	Medium	https://leetcode.com/problems/decode-ways/
+LeetCode	53	Maximum Subarray	Medium	https://leetcode.com/problems/maximum-subarray/
+LeetCode	1137	N-th Tribonacci Number	Easy	https://leetcode.com/problems/n-th-tribonacci-number/
+LeetCode	740	Delete and Earn	Medium	https://leetcode.com/problems/delete-and-earn/
+LeetCode	152	Maximum Product Subarray	Medium	https://leetcode.com/problems/maximum-product-subarray/
+LeetCode	139	Word Break	Medium	https://leetcode.com/problems/word-break/
+LeetCode	55	Jump Game	Medium	https://leetcode.com/problems/jump-game/
+LeetCode	279	Perfect Squares	Medium	https://leetcode.com/problems/perfect-squares/
+LeetCode	2140	Solving Questions With Brainpower	Medium	https://leetcode.com/problems/solving-questions-with-brainpower/
+LeetCode	983	Minimum Cost For Tickets	Medium	https://leetcode.com/problems/minimum-cost-for-tickets/
+LeetCode	639	Decode Ways II	Hard	https://leetcode.com/problems/decode-ways-ii/
+LeetCode	918	Maximum Sum Circular Subarray	Medium	https://leetcode.com/problems/maximum-sum-circular-subarray/
+LeetCode	62	Unique Paths	Medium	https://leetcode.com/problems/unique-paths/
+LeetCode	63	Unique Paths II	Medium	https://leetcode.com/problems/unique-paths-ii/
+LeetCode	64	Minimum Path Sum	Medium	https://leetcode.com/problems/minimum-path-sum/
+LeetCode	120	Triangle	Medium	https://leetcode.com/problems/triangle/
+LeetCode	931	Minimum Falling Path Sum	Medium	https://leetcode.com/problems/minimum-falling-path-sum/
+LeetCode	1289	Minimum Falling Path Sum II	Hard	https://leetcode.com/problems/minimum-falling-path-sum-ii/
+LeetCode	174	Dungeon Game	Hard	https://leetcode.com/problems/dungeon-game/
+LeetCode	741	Cherry Pickup	Hard	https://leetcode.com/problems/cherry-pickup/
+LeetCode	1463	Cherry Pickup II	Hard	https://leetcode.com/problems/cherry-pickup-ii/
+LeetCode	221	Maximal Square	Medium	https://leetcode.com/problems/maximal-square/
+LeetCode	576	Out of Boundary Paths	Medium	https://leetcode.com/problems/out-of-boundary-paths/
+LeetCode	688	Knight Probability in Chessboard	Medium	https://leetcode.com/problems/knight-probability-in-chessboard/
+LeetCode	1277	Count Square Submatrices with All Ones	Medium	https://leetcode.com/problems/count-square-submatrices-with-all-ones/
+LeetCode	329	Longest Increasing Path in a Matrix	Hard	https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
+LeetCode	416	Partition Equal Subset Sum	Medium	https://leetcode.com/problems/partition-equal-subset-sum/
+LeetCode	1049	Last Stone Weight II	Medium	https://leetcode.com/problems/last-stone-weight-ii/
+LeetCode	494	Target Sum	Medium	https://leetcode.com/problems/target-sum/
+LeetCode	322	Coin Change	Medium	https://leetcode.com/problems/coin-change/
+LeetCode	518	Coin Change II	Medium	https://leetcode.com/problems/coin-change-ii/
+LeetCode	474	Ones and Zeroes	Medium	https://leetcode.com/problems/ones-and-zeroes/
+LeetCode	377	Combination Sum IV	Medium	https://leetcode.com/problems/combination-sum-iv/
+LeetCode	1155	Number of Dice Rolls With Target Sum	Medium	https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
+LeetCode	879	Profitable Schemes	Hard	https://leetcode.com/problems/profitable-schemes/
+LeetCode	2035	Partition Array Into Two Arrays to Minimize Sum Difference	Hard	https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/
+LeetCode	300	Longest Increasing Subsequence	Medium	https://leetcode.com/problems/longest-increasing-subsequence/
+LeetCode	673	Number of Longest Increasing Subsequence	Medium	https://leetcode.com/problems/number-of-longest-increasing-subsequence/
+LeetCode	368	Largest Divisible Subset	Medium	https://leetcode.com/problems/largest-divisible-subset/
+LeetCode	354	Russian Doll Envelopes	Hard	https://leetcode.com/problems/russian-doll-envelopes/
+LeetCode	1048	Longest String Chain	Medium	https://leetcode.com/problems/longest-string-chain/
+LeetCode	1143	Longest Common Subsequence	Medium	https://leetcode.com/problems/longest-common-subsequence/
+LeetCode	516	Longest Palindromic Subsequence	Medium	https://leetcode.com/problems/longest-palindromic-subsequence/
+LeetCode	72	Edit Distance	Medium	https://leetcode.com/problems/edit-distance/
+LeetCode	115	Distinct Subsequences	Hard	https://leetcode.com/problems/distinct-subsequences/
+LeetCode	1092	Shortest Common Supersequence	Hard	https://leetcode.com/problems/shortest-common-supersequence/
+LeetCode	583	Delete Operation for Two Strings	Medium	https://leetcode.com/problems/delete-operation-for-two-strings/
+LeetCode	712	Minimum ASCII Delete Sum for Two Strings	Medium	https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/
+LeetCode	1312	Minimum Insertion Steps to Make a String Palindrome	Hard	https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
+LeetCode	97	Interleaving String	Medium	https://leetcode.com/problems/interleaving-string/
+LeetCode	44	Wildcard Matching	Hard	https://leetcode.com/problems/wildcard-matching/
+LeetCode	10	Regular Expression Matching	Hard	https://leetcode.com/problems/regular-expression-matching/
+LeetCode	5	Longest Palindromic Substring	Medium	https://leetcode.com/problems/longest-palindromic-substring/
+LeetCode	647	Palindromic Substrings	Medium	https://leetcode.com/problems/palindromic-substrings/
+LeetCode	1035	Uncrossed Lines	Medium	https://leetcode.com/problems/uncrossed-lines/
+LeetCode	718	Maximum Length of Repeated Subarray	Medium	https://leetcode.com/problems/maximum-length-of-repeated-subarray/
+LeetCode	121	Best Time to Buy and Sell Stock	Easy	https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+LeetCode	122	Best Time to Buy and Sell Stock II	Medium	https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+LeetCode	123	Best Time to Buy and Sell Stock III	Hard	https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
+LeetCode	188	Best Time to Buy and Sell Stock IV	Hard	https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
+LeetCode	309	Best Time to Buy and Sell Stock with Cooldown	Medium	https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+LeetCode	714	Best Time to Buy and Sell Stock with Transaction Fee	Medium	https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+LeetCode	312	Burst Balloons	Hard	https://leetcode.com/problems/burst-balloons/
+LeetCode	131	Palindrome Partitioning	Medium	https://leetcode.com/problems/palindrome-partitioning/
+LeetCode	132	Palindrome Partitioning II	Hard	https://leetcode.com/problems/palindrome-partitioning-ii/
+LeetCode	1547	Minimum Cost to Cut a Stick	Hard	https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
+LeetCode	1039	Minimum Score Triangulation of Polygon	Medium	https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
+LeetCode	664	Strange Printer	Hard	https://leetcode.com/problems/strange-printer/
+LeetCode	375	Guess Number Higher or Lower II	Medium	https://leetcode.com/problems/guess-number-higher-or-lower-ii/
+LeetCode	877	Stone Game	Medium	https://leetcode.com/problems/stone-game/
+LeetCode	486	Predict the Winner	Medium	https://leetcode.com/problems/predict-the-winner/
+LeetCode	546	Remove Boxes	Hard	https://leetcode.com/problems/remove-boxes/
+LeetCode	1043	Partition Array for Maximum Sum	Medium	https://leetcode.com/problems/partition-array-for-maximum-sum/
+LeetCode	1130	Minimum Cost Tree From Leaf Values	Medium	https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/
+LeetCode	337	House Robber III	Medium	https://leetcode.com/problems/house-robber-iii/
+LeetCode	124	Binary Tree Maximum Path Sum	Hard	https://leetcode.com/problems/binary-tree-maximum-path-sum/
+LeetCode	543	Diameter of Binary Tree	Easy	https://leetcode.com/problems/diameter-of-binary-tree/
+LeetCode	968	Binary Tree Cameras	Hard	https://leetcode.com/problems/binary-tree-cameras/
+LeetCode	96	Unique Binary Search Trees	Medium	https://leetcode.com/problems/unique-binary-search-trees/
+LeetCode	95	Unique Binary Search Trees II	Medium	https://leetcode.com/problems/unique-binary-search-trees-ii/
+LeetCode	834	Sum of Distances in Tree	Hard	https://leetcode.com/problems/sum-of-distances-in-tree/
+LeetCode	2246	Longest Path With Different Adjacent Characters	Hard	https://leetcode.com/problems/longest-path-with-different-adjacent-characters/
+LeetCode	1339	Maximum Product of Splitted Binary Tree	Medium	https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/
+LeetCode	787	Cheapest Flights Within K Stops	Medium	https://leetcode.com/problems/cheapest-flights-within-k-stops/
+LeetCode	1976	Number of Ways to Arrive at Destination	Medium	https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
+LeetCode	1857	Largest Color Value in a Directed Graph	Hard	https://leetcode.com/problems/largest-color-value-in-a-directed-graph/
+LeetCode	2050	Parallel Courses III	Hard	https://leetcode.com/problems/parallel-courses-iii/
+LeetCode	847	Shortest Path Visiting All Nodes	Hard	https://leetcode.com/problems/shortest-path-visiting-all-nodes/
+LeetCode	698	Partition to K Equal Sum Subsets	Medium	https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
+LeetCode	943	Find the Shortest Superstring	Hard	https://leetcode.com/problems/find-the-shortest-superstring/
+LeetCode	1434	Number of Ways to Wear Different Hats to Each Other	Hard	https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/
+LeetCode	1879	Minimum XOR Sum of Two Arrays	Hard	https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/
+LeetCode	464	Can I Win	Medium	https://leetcode.com/problems/can-i-win/
+LeetCode	1349	Maximum Students Taking Exam	Hard	https://leetcode.com/problems/maximum-students-taking-exam/
+LeetCode	1125	Smallest Sufficient Team	Hard	https://leetcode.com/problems/smallest-sufficient-team/
+LeetCode	526	Beautiful Arrangement	Medium	https://leetcode.com/problems/beautiful-arrangement/
+LeetCode	1986	Minimum Number of Work Sessions to Finish the Tasks	Medium	https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/
+LeetCode	233	Number of Digit One	Hard	https://leetcode.com/problems/number-of-digit-one/
+LeetCode	357	Count Numbers with Unique Digits	Medium	https://leetcode.com/problems/count-numbers-with-unique-digits/
+LeetCode	902	Numbers At Most N Given Digit Set	Hard	https://leetcode.com/problems/numbers-at-most-n-given-digit-set/
+LeetCode	1012	Numbers With Repeated Digits	Hard	https://leetcode.com/problems/numbers-with-repeated-digits/
+LeetCode	600	Non-negative Integers without Consecutive Ones	Hard	https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/
+LeetCode	2719	Count of Integers	Hard	https://leetcode.com/problems/count-of-integers/
+LeetCode	2376	Count Special Integers	Hard	https://leetcode.com/problems/count-special-integers/
+LeetCode	788	Rotated Digits	Medium	https://leetcode.com/problems/rotated-digits/
+LeetCode	1220	Count Vowels Permutation	Hard	https://leetcode.com/problems/count-vowels-permutation/
+LeetCode	790	Domino and Tromino Tiling	Medium	https://leetcode.com/problems/domino-and-tromino-tiling/
+LeetCode	552	Student Attendance Record II	Hard	https://leetcode.com/problems/student-attendance-record-ii/
+LeetCode	935	Knight Dialer	Medium	https://leetcode.com/problems/knight-dialer/
+LeetCode	801	Minimum Swaps To Make Sequences Increasing	Hard	https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/
+LeetCode	1411	Number of Ways to Paint N × 3 Grid	Hard	https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/
+LeetCode	1696	Jump Game VI	Medium	https://leetcode.com/problems/jump-game-vi/
+LeetCode	1425	Constrained Subsequence Sum	Hard	https://leetcode.com/problems/constrained-subsequence-sum/
+LeetCode	1499	Max Value of Equation	Hard	https://leetcode.com/problems/max-value-of-equation/
+LeetCode	862	Shortest Subarray with Sum at Least K	Hard	https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
+LeetCode	1335	Minimum Difficulty of a Job Schedule	Hard	https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/
+LeetCode	1478	Allocate Mailboxes	Hard	https://leetcode.com/problems/allocate-mailboxes/
+LeetCode	1178	Number of Valid Words for Each Puzzle	Hard	https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
+LeetCode	2172	Maximum AND Sum of Array	Hard	https://leetcode.com/problems/maximum-and-sum-of-array/
+LeetCode	2572	Count the Number of Square-Free Subsets	Medium	https://leetcode.com/problems/count-the-number-of-square-free-subsets/
+LeetCode	239	Sliding Window Maximum	Hard	https://leetcode.com/problems/sliding-window-maximum/
+CSES	1633	Dice Combinations	-	https://cses.fi/problemset/task/1633
+CSES	1634	Minimizing Coins	-	https://cses.fi/problemset/task/1634
+CSES	1635	Coin Combinations I	-	https://cses.fi/problemset/task/1635
+CSES	1636	Coin Combinations II	-	https://cses.fi/problemset/task/1636
+CSES	1637	Removing Digits	-	https://cses.fi/problemset/task/1637
+CSES	1638	Grid Paths I	-	https://cses.fi/problemset/task/1638
+CSES	1158	Book Shop	-	https://cses.fi/problemset/task/1158
+CSES	1746	Array Description	-	https://cses.fi/problemset/task/1746
+CSES	2413	Counting Towers	-	https://cses.fi/problemset/task/2413
+CSES	1639	Edit Distance	-	https://cses.fi/problemset/task/1639
+CSES	1744	Rectangle Cutting	-	https://cses.fi/problemset/task/1744
+CSES	1745	Money Sums	-	https://cses.fi/problemset/task/1745
+CSES	1097	Removal Game	-	https://cses.fi/problemset/task/1097
+CSES	1093	Two Sets II	-	https://cses.fi/problemset/task/1093
+CSES	1145	Increasing Subsequence	-	https://cses.fi/problemset/task/1145
+CSES	1140	Projects	-	https://cses.fi/problemset/task/1140
+CSES	1653	Elevator Rides	-	https://cses.fi/problemset/task/1653
+CSES	2181	Counting Tilings	-	https://cses.fi/problemset/task/2181
+CSES	2220	Counting Numbers	-	https://cses.fi/problemset/task/2220
+CSES	2084	Monster Game I	-	https://cses.fi/problemset/task/2084
+CSES	2085	Monster Game II	-	https://cses.fi/problemset/task/2085
+CSES	2086	Subarray Squares	-	https://cses.fi/problemset/task/2086
+CSES	2087	Houses and Schools	-	https://cses.fi/problemset/task/2087
+CSES	2088	Knuth Division	-	https://cses.fi/problemset/task/2088
+CSES	1722	Fibonacci Numbers	-	https://cses.fi/problemset/task/1722
+CSES	1130	Tree Matching	-	https://cses.fi/problemset/task/1130
+CSES	1132	Tree Distances I	-	https://cses.fi/problemset/task/1132
+AtCoder	dp_a	Frog 1	-	https://atcoder.jp/contests/dp/tasks/dp_a
+AtCoder	dp_b	Frog 2	-	https://atcoder.jp/contests/dp/tasks/dp_b
+AtCoder	dp_c	Vacation	-	https://atcoder.jp/contests/dp/tasks/dp_c
+AtCoder	dp_d	Knapsack 1	-	https://atcoder.jp/contests/dp/tasks/dp_d
+AtCoder	dp_e	Knapsack 2	-	https://atcoder.jp/contests/dp/tasks/dp_e
+AtCoder	dp_f	LCS	-	https://atcoder.jp/contests/dp/tasks/dp_f
+AtCoder	dp_g	Longest Path	-	https://atcoder.jp/contests/dp/tasks/dp_g
+AtCoder	dp_h	Grid 1	-	https://atcoder.jp/contests/dp/tasks/dp_h
+AtCoder	dp_i	Coins	-	https://atcoder.jp/contests/dp/tasks/dp_i
+AtCoder	dp_j	Sushi	-	https://atcoder.jp/contests/dp/tasks/dp_j
+AtCoder	dp_k	Stones	-	https://atcoder.jp/contests/dp/tasks/dp_k
+AtCoder	dp_l	Deque	-	https://atcoder.jp/contests/dp/tasks/dp_l
+AtCoder	dp_m	Candies	-	https://atcoder.jp/contests/dp/tasks/dp_m
+AtCoder	dp_n	Slimes	-	https://atcoder.jp/contests/dp/tasks/dp_n
+AtCoder	dp_o	Matching	-	https://atcoder.jp/contests/dp/tasks/dp_o
+AtCoder	dp_p	Independent Set	-	https://atcoder.jp/contests/dp/tasks/dp_p
+AtCoder	dp_q	Flowers	-	https://atcoder.jp/contests/dp/tasks/dp_q
+AtCoder	dp_r	Walk	-	https://atcoder.jp/contests/dp/tasks/dp_r
+AtCoder	dp_s	Digit Sum	-	https://atcoder.jp/contests/dp/tasks/dp_s
+AtCoder	dp_t	Permutation	-	https://atcoder.jp/contests/dp/tasks/dp_t
+AtCoder	dp_u	Grouping	-	https://atcoder.jp/contests/dp/tasks/dp_u
+AtCoder	dp_v	Subtree	-	https://atcoder.jp/contests/dp/tasks/dp_v
+AtCoder	dp_w	Intervals	-	https://atcoder.jp/contests/dp/tasks/dp_w
+AtCoder	dp_x	Tower	-	https://atcoder.jp/contests/dp/tasks/dp_x
+AtCoder	dp_y	Grid 2	-	https://atcoder.jp/contests/dp/tasks/dp_y
+AtCoder	dp_z	Frog 3	-	https://atcoder.jp/contests/dp/tasks/dp_z
+LeetCode	343	Integer Break	Medium	https://leetcode.com/problems/integer-break/
+LeetCode	646	Maximum Length of Pair Chain	Medium	https://leetcode.com/problems/maximum-length-of-pair-chain/
+LeetCode	392	Is Subsequence	Easy	https://leetcode.com/problems/is-subsequence/
+LeetCode	940	Distinct Subsequences II	Hard	https://leetcode.com/problems/distinct-subsequences-ii/
+LeetCode	1218	Longest Arithmetic Subsequence of Given Difference	Medium	https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/
+LeetCode	1458	Max Dot Product of Two Subsequences	Hard	https://leetcode.com/problems/max-dot-product-of-two-subsequences/
+LeetCode	78	Subsets	Medium	https://leetcode.com/problems/subsets/
+LeetCode	50	Pow(x, n)	Medium	https://leetcode.com/problems/powx-n/
+LeetCode	344	Reverse String	Easy	https://leetcode.com/problems/reverse-string/
+LeetCode	231	Power of Two	Easy	https://leetcode.com/problems/power-of-two/
+LeetCode	1937	Maximum Number of Points with Cost	Medium	https://leetcode.com/problems/maximum-number-of-points-with-cost/
+LeetCode	1000	Minimum Cost to Merge Stones	Hard	https://leetcode.com/problems/minimum-cost-to-merge-stones/
+LeetCode	1871	Jump Game VII	Medium	https://leetcode.com/problems/jump-game-vii/
+LeetCode	410	Split Array Largest Sum	Hard	https://leetcode.com/problems/split-array-largest-sum/
+LeetCode	39	Combination Sum	Medium	https://leetcode.com/problems/combination-sum/
+LeetCode	40	Combination Sum II	Medium	https://leetcode.com/problems/combination-sum-ii/
+LeetCode	1449	Form Largest Integer With Digits That Add up to Target	Hard	https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/
